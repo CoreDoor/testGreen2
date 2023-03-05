@@ -3,5 +3,5 @@ import { defineConfig } from 'vite'
 
 export default defineConfig({
   // config options
-  base:'/testGreen2/' //
+  base:'/testGreen2/dist/' //
 })
